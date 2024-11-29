@@ -126,3 +126,8 @@
 //------------------------- Bonus -------------------------//
 
 // Replace the ascii art at the top of the file with art representing your stable.
+
+"setting up shop";
+let horses = ["Barbie" , "Bibble", "Boots"];
+// horses stored in an array in order to store their names which they will be identified by. their names are strings. 
+"testing it out"
